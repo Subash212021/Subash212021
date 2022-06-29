@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Subash Thakur</h1>
+<h1 align="center">Hi 👋, I'm Subash </h1>
 <h3 align="center">I Am Passionate about Programming & Learning New Skills and A Open Source Contributor</h3>
 
 <p align="left"> <a href="https://twitter.com/subashthakur21" target="blank"><img src="https://img.shields.io/twitter/follow/subashthakur21?logo=twitter&style=for-the-badge" alt="subashthakur21" /></a> </p>
