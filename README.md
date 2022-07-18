@@ -46,7 +46,5 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subash212021&show_icons=true&title_color=34437f&locale=en&layout=compact" alt="subash212021" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subash212021&show_icons=true&locale=en" alt="subash212021" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subash212021&" alt="subash212021" /></p>
 
